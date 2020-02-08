@@ -1,0 +1,66 @@
+body{
+    margin-top: 0%;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background-image: url("nebula3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 90px;
+  
+}
+
+h1{
+    background-color:transparent ;
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 44px;
+    padding: 0px;
+}
+        
+
+#tab ul {
+background-color: crimson;
+list-style-type: none;
+width: 100%;
+margin:0;
+height: 70px;
+}
+#tab{
+margin: 0px;
+margin-top: 0px;
+top: 0px;
+padding: 0px;
+}
+
+#tab ul li{
+list-style-type: none;
+display: inline-block;
+padding: 20px;
+width: 80px;
+text-align: right;
+float:left;
+margin-left:150px;
+
+}
+head{
+    padding: 0px;
+    margin-top: 0px;
+    top: 0px;
+}
+#contents
+{ 
+width: 20px;
+background-color: turquoise;
+
+
+}
+
+
+
+
+
+
+
+    
