@@ -31,12 +31,12 @@ The syntax used is simple to understand.<br/>
 ## **Development;**<br/>
 if you want contribute thats awesome here are a few steps you need to follow:<br/>
 if you run to a bug<br/>
-*Fork the repo<br/>
-*Create a new branch (git branch gh-pages improve)<br/>
-*Make the appropiate changes<br/>
-*Add the changes<br/>
-*Commit Your changes ( git commit -m "improve portfolio")<br/>
-*Push to the branch(git push -u origin gh-pages improve )<br/>
+* Fork the repo<br/>
+* Create a new branch (git branch gh-pages improve)<br/>
+* Make the appropiate changes<br/>
+* Add the changes<br/>
+* Commit Your changes ( git commit -m "improve portfolio")<br/>
+* Push to the branch(git push -u origin gh-pages improve )<br/>
 
 ## **Licencing;**<br/>
 The project does not run on any licence<br/>
