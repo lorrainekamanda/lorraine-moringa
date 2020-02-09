@@ -1,0 +1,28 @@
+#flex-box{
+    display: flex;
+    flex-direction: column;
+}
+
+
+}
+#credentials{
+     
+    color: white;
+    
+}
+body{
+    background-image: url("nebula3.jpg");
+
+}
+h1{
+    color: red;
+    font-size: 20px;
+}
+#key{
+   margin-top: 20px;
+   padding-top: 0px;
+   color: white;
+}
+#skills{
+    color: white;
+}
