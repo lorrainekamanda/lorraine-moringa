@@ -2,7 +2,7 @@
   ### Hey there! <br/>
   Name : Lorraine Kamanda <br/>
  Email:lorrainekamanda@gmail.com <br/>
- My Portfolio Link[ Lorraine Kamanda Portfolio](index.html) <br/>
+ My Portfolio Link[ Lorraine Kamanda Portfolio](https://lorrainekamanda.github.io/lorraine-moringa/)**(OPEN USING MOZILLA FIREFOX)** <br/>
  This Portfolio was designed for the sole purpose of storing my projects, it is also a great marketing strategy <br/>
  so feel to look around . The portfolio contains my profile my projects and clients so far,it is easy to read and <br/>
  understand and follow  This site was built and updated on February 2020<br/>
