@@ -1,9 +1,12 @@
 ## **Web Desgin Portfolio;**<br/>
   ### Hey there! <br/>
+  Name : Lorraine Kamanda <br/>
+ Email:lorrainekamanda@gmail.com <br/>
+ My Portfolio Link[ Lorraine Kamanda Portfolio](port.html) <br/>
  This Portfolio was designed gor the sole purpose of storing my projects, it is also a great marketing strategy <br/>
  so feel to look around . The portfolio contains my profile my projects and clients so far,it is easy to read and <br/>
- understand and follow <br/>
- This site was built and updated on February 2020<br/>
+ understand and follow  This site was built and updated on February 2020<br/>
+ 
 
 
 ## **Team;**<br/>
