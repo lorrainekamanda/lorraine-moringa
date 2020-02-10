@@ -39,8 +39,8 @@ if you run to a bug<br/>
 * Push to the branch(git push -u origin gh-pages improve )<br/>
 
 ## **Licencing;**<br/>
-The project does not run on any licence<br/>
-*its open source!* so enjoy <br/> 
+The project is by Lorraine Kamanda<br/>
+*licence by [MIT LICENCE](licence.txt)<br/> 
 
 
 ## **Contacts;**<br/>
